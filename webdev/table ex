@@ -1,0 +1,27 @@
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <table border="1">
+            <caption>sample table</caption>
+            <tbody>
+                <tr>
+                <td rowspan="2">ug</td>
+                <td>btech</td>
+                </tr>
+                <tr>
+                    <td>bcom</td>
+                </tr>
+                <tr>
+                <td rowspan="2">pg</td>
+                <td> mtech</td>
+                </tr>
+                <tr>
+                    <td>mcom</td>
+                </tr>
+                
+            </tbody>
+        </table>
+    </body>
+</html>
