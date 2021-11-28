@@ -1,0 +1,20 @@
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <table border="3">
+            <caption>table</caption>
+            <tr>
+                <td colspan="2">ug</td>
+                <td colspan="2">pg</td>
+            </tr>
+            <tr>
+                <td>btech</td>
+                <td>bcom</td>
+                <td>mtech</td>
+                <td>mcom</td>
+            </tr>
+        </table>
+    </body>
+</html>
