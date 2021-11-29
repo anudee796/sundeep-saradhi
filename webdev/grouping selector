@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <style>
+            h1,h3{
+                color:blue;
+                text-align: center;
+            }
+            *{
+                background-color: grey;
+                color:aqua;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <h1>hello world</h1>
+        </div>
+        <div>
+            <h3>how are you</h3>
+        </div>
+        
+        <a href="https://www.google.co.in/">google</a>
+    </body>
+</html>
